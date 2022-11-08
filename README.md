@@ -21,7 +21,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocMana
 
 
 devtools::install_github("daqana/rcpparrayfire")
-devtools::install_github("furlan_lab/viewmaster")
+devtools::install_github("furlan-lab/viewmaster")
 
 ```
 
